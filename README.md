@@ -1,5 +1,3 @@
-<h3 align="center">Passionate Software Engineering Student at Serbia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b0kic4&label=Profile%20views&color=0e75b6&style=flat" alt="b0kic4" /> </p>
 
 - 🔭 I’m currently working on **TeamResolve web application**
