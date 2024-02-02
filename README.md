@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **TeamResolve web application**
-- 🌱 I’m currently learning **Next.js, Nest.js, and Go + HTMX**
+- 🌱 I’m currently learning **Next.js, Rust+Yew, and Go + HTMX**
 - 💬 Ask me about **React, TypeScript, Next.js, Node.js**
 - 📫 How to reach me: [borisnikolic2302@gmail.com](mailto:borisnikolic2302@gmail.com)
 - ⚡ Fun fact: **I'm jacked**
