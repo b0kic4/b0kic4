@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **TeamResolve & ClickCart web applications**
+- 🔭 I’m currently working on **TeamResolve & MyMarketplace web applications**
 - 🌱 I’m currently learning **Next.js, Rust, and Go**
 - 💬 Ask me about **React, TypeScript, Next.js, Node.js**
 - 📫 How to reach me: [borisnikolic2302@gmail.com](mailto:borisnikolic2302@gmail.com)
