@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MyMarketplace<br>👯 I’m looking to collaborate on open and private source projects<br>🤝 I’m currently learning Rust and HTMX<br>💬 Ask me about Nestjs Nextjs React Typescript<br>⚡ Fun fact I am jacked
+🔭 I’m currently working on **MyMarketplace**<br>👯 I’m looking to collaborate on **open and private source projects**<br>🤝 I’m currently learning **Rust and HTMX**<br>💬 Ask me about **Nestjs Nextjs React Typescript**<br>⚡ Fun fact **I am jacked**
 
 
 # 💻 Tech Stack:
