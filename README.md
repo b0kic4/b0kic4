@@ -16,4 +16,6 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bok1c4) 
   
-  
+![b0kic4's Stats](https://github-readme-stats.vercel.app/api?username=b0kic4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![b0kic4's Streak](https://github-readme-streak-stats.herokuapp.com/?user=b0kic4&theme=vue-dark&hide_border=true)
+![b0kic4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b0kic4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
