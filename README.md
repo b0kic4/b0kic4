@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m open for new **Opportunities**<br>👯 I’m looking to collaborate on **open and private source projects**<br>🤝 I’m currently working on **Full-stack AI Project**<br>💬 Ask me about **Nextjs React Nestjs Nodejs Typescript**<br>⚡ Fun fact **I am jacked** <br>🕸️  **My portfolio website https://bok1c4-portfolio-orcin-omega.vercel.app/**
+🔭 I’m open for new **Opportunities**<br>👯 I’m looking to collaborate on **open and private source projects**<br>🤝 I’m currently working on **Insightify**<br>💬 Ask me about **Nextjs React Nestjs Nodejs Typescript**<br>⚡ Fun fact **I am jacked** <br>🕸️  **My portfolio website https://bok1c4-portfolio-orcin-omega.vercel.app/**
 
 
 # 💻 Tech Stack:
