@@ -10,6 +10,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/b0kic4/b0kic4/blob/output/github-contribution-grid-snake.gif)
-
 ###
