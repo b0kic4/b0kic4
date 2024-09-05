@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu" />
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,java,go,ts,py,neovim,vim,lua" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,java,go,ts,py,neovim,vim,lua" />
     <img src="https://skillicons.dev/icons?i=react,nextjs,vercel,vite,tailwind,threejs,nestjs,nodejs" />
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql" />
   </a>
