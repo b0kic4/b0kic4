@@ -24,4 +24,4 @@
 
 ###
 
-<h3 align="left">portfolio: <a href="https://www.bok1c4.com/">https://www.bok1c4.com</a></h3>
+<h3 align="left">portfolio: <a href="https://www.bok1c4.com/">bok1c4.com</a></h3>
