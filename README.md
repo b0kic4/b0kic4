@@ -39,7 +39,7 @@
 
 ### 🔍 Preferred Tech Stack
 While I’m always open to exploring new technologies, I currently **prefer working with**:
-- **Languages**: Go, Rust, TypeScript 
+- **Languages**: C, Go, Rust, TypeScript 
 - **Frameworks**: React, Next.js, Node.js, NestJS
 - **Databases**: PostgreSQL, MongoDB, Redis
 
