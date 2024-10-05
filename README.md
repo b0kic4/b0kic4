@@ -43,7 +43,7 @@ While I’m always open to exploring new technologies, I currently **prefer work
 - **Frameworks**: React, Next.js, Node.js, NestJS
 - **Databases**: PostgreSQL, MongoDB, Redis
 
-I’m less interested in working with **legacy technologies** like **.NET (C#), PHP, or WordPress** as I prefer modern, high-performance solutions.
+I’m less interested in working with **legacy technologies** like **.NET (C#), Java, PHP, or WordPress** as I prefer modern, high-performance solutions.
 
 <h3 align="left">Portfolio: <a href="https://www.bok1c4.com/">bok1c4.com</a></h3>
 
