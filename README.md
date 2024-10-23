@@ -39,9 +39,9 @@
 
 ### 🔍 Preferred Tech Stack
 While I’m always open to exploring new technologies, I currently **prefer working with**:
-- **Languages**: C, Go, Rust, TypeScript 
+- **Prefered Languages**: C, Go, Rust, JS/TS 
 - **Frameworks**: React, Next.js, Node.js, NestJS
-- **Databases**: PostgreSQL, MongoDB, Redis
+- **Databases**: Depends on a use case
 
 I’m less interested in working with **legacy technologies** like **.NET (C#), Java, PHP, or WordPress** as I prefer modern, high-performance solutions.
 
