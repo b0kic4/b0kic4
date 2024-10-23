@@ -42,6 +42,8 @@ While I’m always open to exploring new technologies, I currently **prefer work
 - **Prefered Languages**: C, Go, Rust, JS/TS 
 - **Frameworks**: React, Next.js, Node.js, NestJS
 - **Databases**: Depends on a use case
+- **Prefered IDE***: Neovim and Vim, nothing else 
+  
 
 I’m less interested in working with **legacy technologies** like **.NET (C#), Java, PHP, or WordPress** as I prefer modern, high-performance solutions.
 
